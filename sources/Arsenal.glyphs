@@ -1,8 +1,5 @@
 {
 .appVersion = "919";
-DisplayStrings = (
-"This is like Optima"
-);
 copyright = "Copyright 2012 The Arsenal Project Authors (andrij@typedesign.org.ua)";
 customParameters = (
 {
@@ -98,7 +95,7 @@ capHeight = 650;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -106,27 +103,31 @@ value = -250;
 },
 {
 name = typoLineGap;
-value = 51;
+value = 0;
 },
 {
 name = winAscent;
-value = 936;
+value = 955;
 },
 {
 name = winDescent;
-value = 258;
+value = 339;
 },
 {
 name = hheaAscender;
-value = 936;
+value = 1000;
 },
 {
 name = hheaDescender;
-value = -258;
+value = -250;
 },
 {
 name = underlinePosition;
 value = -50;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -250;
@@ -156,7 +157,7 @@ capHeight = 650;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -164,27 +165,31 @@ value = -250;
 },
 {
 name = typoLineGap;
-value = 51;
+value = 0;
 },
 {
 name = winAscent;
-value = 936;
+value = 955;
 },
 {
 name = winDescent;
-value = 258;
+value = 339;
 },
 {
 name = hheaAscender;
-value = 936;
+value = 1000;
 },
 {
 name = hheaDescender;
-value = -258;
+value = -250;
 },
 {
 name = underlinePosition;
 value = -50;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -250;
@@ -76159,11 +76164,30 @@ name = compatibleFullName;
 value = "Arsenal Regular";
 }
 );
+interpolationWeight = 400;
+interpolationWidth = 5;
 instanceInterpolations = {
-"85DC84FC-A9CD-42A1-AFE4-850615EB4B70" = -1;
-"28637767-9EF2-44E2-B459-E4A39AD280E7" = 2;
+"28637767-9EF2-44E2-B459-E4A39AD280E7" = 1;
 };
 name = Regular;
+},
+{
+customParameters = (
+{
+name = postscriptFullName;
+value = "Arsenal Bold";
+},
+{
+name = compatibleFullName;
+value = "Arsenal Bold";
+}
+);
+interpolationWeight = 700;
+interpolationWidth = 5;
+instanceInterpolations = {
+"85DC84FC-A9CD-42A1-AFE4-850615EB4B70" = 1;
+};
+name = Bold;
 }
 );
 kerning = {
