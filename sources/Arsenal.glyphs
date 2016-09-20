@@ -3,7 +3,7 @@
 DisplayStrings = (
 "This is like Optima"
 );
-copyright = "Copyright (c) 2012 by Stairsfor. All rights reserved.";
+copyright = "Copyright 2012 The Arsenal Project Authors (andrij@typedesign.org.ua)";
 customParameters = (
 {
 name = description;
