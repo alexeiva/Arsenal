@@ -154,7 +154,7 @@ value = 1000;
 },
 {
 name = typoDescender;
-value = -250;
+value = -254;
 },
 {
 name = typoLineGap;
@@ -213,7 +213,7 @@ value = 1000;
 },
 {
 name = typoDescender;
-value = -250;
+value = -254;
 },
 {
 name = typoLineGap;
