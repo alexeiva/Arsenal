@@ -14,10 +14,6 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-name = sampleText;
-value = "З'їв аґрусу—та ягода цілюща б'є жах інфекцій цілющим „ь”!";
-},
-{
 name = vendorID;
 value = MYFO;
 },
@@ -171,7 +167,7 @@ value = 1000;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -254;
 },
 {
 name = underlinePosition;
@@ -233,7 +229,7 @@ value = 1000;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -254;
 },
 {
 name = underlinePosition;

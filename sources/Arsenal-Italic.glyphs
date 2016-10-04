@@ -21,10 +21,6 @@ name = vendorID;
 value = MYFO;
 },
 {
-name = sampleText;
-value = "З'їв аґрусу—та ягода цілюща б'є жах інфекцій цілющим „ь”!";
-},
-{
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
@@ -174,7 +170,7 @@ value = 1000;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -254;
 },
 {
 name = underlinePosition;
@@ -233,7 +229,7 @@ value = 1000;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -254;
 },
 {
 name = underlinePosition;
