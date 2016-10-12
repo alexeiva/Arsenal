@@ -1,5 +1,5 @@
 {
-.appVersion = "925";
+.appVersion = "926";
 classes = (
 {
 automatic = 1;
@@ -34,6 +34,7 @@ value = 1;
 date = "2012-06-11 07:39:38 +0000";
 designer = "Andrij Shevchenko";
 designerURL = "http://andrij.com.ua/";
+disablesNiceNames = 1;
 familyName = Arsenal;
 featurePrefixes = (
 {
@@ -90820,7 +90821,6 @@ note = uniF6C3;
 unicode = F6C3;
 }
 );
-disablesNiceNames = 1;
 instances = (
 {
 interpolationWeight = 400;
@@ -90838,7 +90838,6 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "640DAD6F-C00E-41F4-8D6C-450924326D1A" = 1;
 };
-isBold = 1;
 isItalic = 1;
 linkStyle = Bold;
 name = "Bold Italic";
