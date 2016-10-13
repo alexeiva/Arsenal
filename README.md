@@ -1,10 +1,30 @@
+# Arsenal Fonts | Шрифт Арсенал
 ![Arsenal](sources/logo.png)
 
-### Шрифт Арсенал | Arsenal Fonts
+## Ukrainian Type
 
-by [Andrij Shevchenko](http://www.myfonts.com/newsletters/cc/201202.html)
+Arsenal is an open-source font by [Andrij Shevchenko](1)
 
-Further reading: [Ukrainian Type](http://www.ukrainian-type.com/about/)
+##### [EN]
+
+Arsenal is a font for setting text. It is a traditional half-grotesque, effective for business documentation. Further reading: [Ukrainian Type](2)
+
+The original Latin and Cyrillic were designed by [Andrij Shevchenko](1). 
+
+Further Cyrillic expansion to GF Cyrillic Pro was completed by [Cyreal](3).
+
+Vietnamese support was added by Nhung Nguyen <vns.wonderland@gmail.com> @crystaltype.
+
+
+### License
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: [http://scripts.sil.org/OFL](4)
+
+[1]: http://www.myfonts.com/newsletters/cc/201202.html
+[2]: http://www.ukrainian-type.com/about/
+[3]: http://cyreal.org
+[4]: http://scripts.sil.org/OFL
+
 
 ##### [UA]
 
@@ -28,19 +48,5 @@ Further reading: [Ukrainian Type](http://www.ukrainian-type.com/about/)
 
 
 ![Arsenal](sources/fleuron.png)
-
-
-##### [EN]
-
-Arsenal is a font for body copy, effective in corporate communication. 
-
-### License
-
-SIL OFL 1.1 License
-
-### Todo
-
-* Add Vietnamese support
-* Add GF Cyrillic Plus support
 
 
