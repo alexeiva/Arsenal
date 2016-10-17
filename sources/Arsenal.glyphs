@@ -397,8 +397,6 @@ sub egrave by egrave.sc;
 sub emacron by emacron.sc;
 sub eogonek by eogonek.sc;
 sub f by f.sc;
-sub fi by fi.sc;
-sub fl by fl.sc;
 sub g by g.sc;
 sub gbreve by gbreve.sc;
 sub gcommaaccent by gcommaaccent.sc;
@@ -513,13 +511,31 @@ sub e-cy by e-cy.sc;
 sub ereversed-cy by ereversed-cy.sc;
 sub i-cy by i-cy.sc;
 sub yi-cy by yi-cy.sc;
-sub yi_yi-cy by yi_yi-cy.sc;
 sub je-cy by je-cy.sc;
 sub tshe-cy by tshe-cy.sc;
 sub iu-cy by iu-cy.sc;
 sub ia-cy by ia-cy.sc;
 sub dje-cy by dje-cy.sc;
 sub yat-cy by yat-cy.sc;
+sub ve-cy.loclBGR by ve-cy.sc;
+sub ge-cy.loclBGR by ge-cy.sc;
+sub de-cy.loclBGR by de-cy.sc;
+sub zhe-cy.loclBGR by zhe-cy.sc;
+sub ze-cy.loclBGR by ze-cy.sc;
+sub ii-cy.loclBGR by ii-cy.sc;
+sub iishort-cy.loclBGR by iishort-cy.sc;
+sub iigrave-cy.loclBGR by iigrave-cy.sc;
+sub ka-cy.loclBGR by ka-cy.sc;
+sub el-cy.loclBGR by el-cy.sc;
+sub pe-cy.loclBGR by pe-cy.sc;
+sub te-cy.loclBGR by te-cy.sc;
+sub tse-cy.loclBGR by tse-cy.sc;
+sub sha-cy.loclBGR by sha-cy.sc;
+sub shcha-cy.loclBGR by shcha-cy.sc;
+sub softsign-cy.loclBGR by softsign-cy.sc;
+sub hardsign-cy.loclBGR by hardsign-cy.sc;
+sub iu-cy.loclBGR by iu-cy.sc;
+sub be-cy.loclSRB by be-cy.sc;
 ";
 name = smcp;
 },
@@ -532,14 +548,12 @@ sub verticalbar-cy by verticalbar-cy.case;
 name = case;
 },
 {
-automatic = 1;
 code = "sub s t by s_t;
 sub Yi-cy Yi-cy by Yi_Yi-cy;
 sub i-cy yi-cy by i_yi-cy;
 sub yi-cy yi-cy by yi_yi-cy;
-sub En-cy Ge-cy by Enghe-cy;
-sub en-cy ge-cy by enghe-cy;
-";
+sub quoteright yi-cy by quoteright_yi-cy;
+sub apostrophemod yi-cy by quoteright_yi-cy;";
 name = dlig;
 },
 {
