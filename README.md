@@ -2,9 +2,9 @@
 
 #### Open-source font by [Andrij Shevchenko](1)
 
-In 2011 Andrej Shevchenko's entry became a winner of [Ukrainian Type Design Competition 'Mystetsky Arsenal][2]' in which three main criteria were sought for: being contemporary, bussinesslike, Ukrainian.
+In 2011 Andrij's typeface became a winner of [Ukrainian Type Design Competition 'Mystetsky Arsenal][2]' in which three main criteria were sought for: being zeitgeist, practical, and Ukrainian. Andrij's winning entry was crowned Arsenal and made publicly available.
  
-Arsenal is a semi-grotesque with traditional lettershapes. It is primarily designed for body text, and intended for business usage. 
+Arsenal is a semi-grotesque with traditional forms. It is primarily designed for body text and intended for various professional communication. Its special qualities of letter shapes and subtle contrast modulation articulate grace and expressivity. Arsenal's somewhat lyrical sentiment abides to the Ukrainian nature of the font.
 
 Design Features:
 
@@ -18,8 +18,6 @@ Notable Traits:
  * Clarity
  * Swiftness
  
-Special qualities of lettershapes and contrast modulation are means of articulating grace and expressivity. A somewhat lyrical feeling abides to the Ukrainian nature of the font. 
-
 ### Project Timeline
 
 - 2011 Original Latin (except pan-African, and Asian) and Cyrillic (except Asian languages) were designed by [Andrij Shevchenko][1]. 
