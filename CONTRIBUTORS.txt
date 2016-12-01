@@ -8,6 +8,7 @@
 #     Name <email address>
 
 Andrij Shevchenko <andrij.design@gmail.com>
+Alexei Vanyashin <a@cyreal.org>
 Cyreal <contact@cyreal.org>
 Nhung Nguyen <vns.wonderland@gmail.com>
 Marc Foley <m.foley.88@googlemail.com>

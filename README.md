@@ -1,32 +1,59 @@
-# Arsenal Fonts | Шрифт Арсенал
-![Arsenal](sources/logo.png)
+# Arsenal Font
 
-## Ukrainian Type
+#### Open-source font by [Andrij Shevchenko](1)
 
-Arsenal is an open-source font by [Andrij Shevchenko](1)
+In 2011 Andrej Shevchenko's entry became a winner of [Ukrainian Type Design Competition 'Mystetsky Arsenal][2]' in which three main criteria were sought for: being contemporary, bussinesslike, Ukrainian.
+ 
+Arsenal is a semi-grotesque with traditional lettershapes. It is primarily designed for body text, and intended for business usage. 
 
-##### [EN]
+Design Features:
 
-Arsenal is a font for setting text. It is a traditional half-grotesque, effective for business documentation. Further reading: [Ukrainian Type](2)
+ * Narrow proportions for economical type-setting.
+ * Moderate aperture
+ * Observable contrast
+ 
+Notable Traits:
 
-The original Latin and Cyrillic were designed by [Andrij Shevchenko](1). 
+ * Neutrality
+ * Clarity
+ * Swiftness
+ 
+Special qualities of lettershapes and contrast modulation are means of articulating grace and expressivity. A somewhat lyrical feeling abides to the Ukrainian nature of the font. 
 
-Further Cyrillic expansion to GF Cyrillic Pro was completed by [Cyreal](3).
+### Project Timeline
 
-Vietnamese support was added by Nhung Nguyen <vns.wonderland@gmail.com> @crystaltype.
+- 2011 Original Latin (except pan-African, and Asian) and Cyrillic (except Asian languages) were designed by [Andrij Shevchenko][1]. 
 
+- 2016 Further Cyrillic expansion to GF Cyrillic Pro was completed by [Cyreal][3].
+
+- 2016 Vietnamese language support was added by Nhung Nguyen <vns.wonderland@gmail.com>.
+
+
+### Copyright
+
+Copyright 2012 Stairsfor and the Arsenal Project Authors 
 
 ### License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: [http://scripts.sil.org/OFL](4)
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: [http://scripts.sil.org/OFL][4]
+
+### Links
+
+ * [Arsenal on Behance][5]
+ * [Arsenal on Ukrainian Type][2]
+ * [Stairsfor][6]
 
 [1]: http://www.myfonts.com/newsletters/cc/201202.html
 [2]: http://www.ukrainian-type.com/about/
 [3]: http://cyreal.org
 [4]: http://scripts.sil.org/OFL
+[5]: https://www.behance.net/gallery/5540223/Arsenal-free-typeface
+[6]: http://stairsfor.com/
 
 
 ##### [UA]
+
+Переможець конкурсу на сучасний український шрифт в чотирьох традиційних відмінах (прямій, письмівці, грубішій та грубішій письмівці) для кирилиці (крім азійської) та латинки (крім азійсько-африканської) випущений під відкритою ліцензією.
 
 «АРСЕНАЛ» – набірний шрифт. Напівзакритий ґротеск традиційних форм. Ефективний для використання в діловій документації.
 
@@ -44,9 +71,11 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 
 Контраст та побудова літер надають йому більшої виразності та м’якості, а дещо ліричний характер – українського колориту.
 
-Шрифт має вільну та відкриту ліцензію SIL Open Font License.
+### Ліцензія
 
+Шрифт має вільну та відкриту ліцензію [SIL Open Font License][4].
 
+![Arsenal](sources/poster.png)
 ![Arsenal](sources/fleuron.png)
 
 

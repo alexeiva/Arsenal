@@ -13,7 +13,7 @@ http://www.ukrainian-type.com/home/
 Arsenal is a Unicode typeface family that supports languages that use the Latin, and Cyrillic scripts and its variants, and could be expanded to support other scripts.
 
 More specifically, this release supports the following Unicode
-ranges: Latin-1, GF Cyrillic Plus
+ranges: Latin-1, Vietnamese, GF Cyrillic Pro
 
 To contribute to the project contact Alexei Vanyashin at a@cyreal.org
 
@@ -25,5 +25,14 @@ ChangeLog
 
 N: Andrij Shevchenko
 W: https://www.behance.net/andrij
-E: andrij@typedesign.org.ua
+E: andrij.design@gmail.com
 D: Original Designer
+
+N: Cyreal
+W: http://cyreal.org
+E: contact@cyreal.org
+D: Expansion to GF Cyrillic Pro
+
+N: Nhung Nguyen
+E: vns.wonderland@gmail.com>
+D: Expansion to Vietnamese
