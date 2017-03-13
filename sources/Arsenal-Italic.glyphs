@@ -1,5 +1,5 @@
 {
-.appVersion = "939";
+.appVersion = "945";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2012 Stairsfor and the Arsenal Project Authors ";
+copyright = "Copyright 2012 The Arsenal Project Authors (andrij.design@gmail.com)";
 customParameters = (
 {
 name = licenseURL;
