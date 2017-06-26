@@ -1,5 +1,8 @@
 {
 .appVersion = "965";
+DisplayStrings = (
+y/ydotbelow
+);
 classes = (
 {
 automatic = 1;
@@ -27461,7 +27464,7 @@ width = 449;
 anchors = (
 {
 name = bottom;
-position = "{241, 0}";
+position = "{351, 0}";
 },
 {
 name = top;
@@ -27794,7 +27797,7 @@ name = y;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 93, 0}";
+transform = "{1, 0, 0, 1, 203, 0}";
 }
 );
 layerId = "85DC84FC-A9CD-42A1-AFE4-850615EB4B70";
