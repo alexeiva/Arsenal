@@ -15,6 +15,17 @@ Arsenal is a Unicode typeface family that supports languages that use the Latin,
 More specifically, this release supports the following Unicode
 ranges: Latin-1, Vietnamese, GF Cyrillic Pro
 
+2011 v.1.000 (Andrij Shevchenko)
+- Original Latin (except pan-African, and Asian) and Cyrillic (except Asian 
+languages) were designed by Andrij Shevchenko.
+
+October 17, 2016 v.2.000 (Cyreal + Nhung Nguyen)
+- Cyrillic expansion to GF Cyrillic Pro by Cyreal and Vietnamese expansion by Nhung Nguyen.
+
+June 26 2017 v.2.001 (Alexei Vanyashin)
+- Fixed  #7 — lack of diacritic in Ҋ U+048A, ҋ U+048B, placement of dot in ỵ U+1EF5.
+
+
 To contribute to the project contact Alexei Vanyashin at a@cyreal.org
 
 There are two source files
