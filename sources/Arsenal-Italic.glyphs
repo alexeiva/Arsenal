@@ -39,7 +39,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2012-06-11 07:39:38 +0000";
+date = "2017-06-26 08:41:15 +0000";
 designer = "Andrij Shevchenko";
 designerURL = "http://andrij.com.ua/";
 disablesNiceNames = 1;
@@ -99295,5 +99295,5 @@ manufacturer = Stairsfor;
 manufacturerURL = "http://stairsfor.com/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
