@@ -1,5 +1,5 @@
 {
-.appVersion = "945";
+.appVersion = "965";
 classes = (
 {
 automatic = 1;
@@ -41534,14 +41534,10 @@ color = 4;
 glyphname = "Iishorttail-cy";
 layers = (
 {
-anchors = (
+components = (
 {
-name = bottomright;
-position = "{576, 0}";
-},
-{
-name = top;
-position = "{404, 700}";
+name = "brevecomb-cy.case";
+transform = "{1, 0, 0, 1, 140, 0}";
 }
 );
 layerId = "28637767-9EF2-44E2-B459-E4A39AD280E7";
@@ -41576,14 +41572,10 @@ nodes = (
 width = 672;
 },
 {
-anchors = (
+components = (
 {
-name = bottomright;
-position = "{547, 0}";
-},
-{
-name = top;
-position = "{406, 705}";
+name = "brevecomb-cy.case";
+transform = "{1, 0, 0, 1, 140, 0}";
 }
 );
 layerId = "85DC84FC-A9CD-42A1-AFE4-850615EB4B70";
@@ -55047,14 +55039,10 @@ color = 4;
 glyphname = "iishorttail-cy";
 layers = (
 {
-anchors = (
+components = (
 {
-name = bottomright;
-position = "{474, 0}";
-},
-{
-name = top;
-position = "{348, 530}";
+name = "brevecomb-cy";
+transform = "{1, 0, 0, 1, 77, 0}";
 }
 );
 layerId = "28637767-9EF2-44E2-B459-E4A39AD280E7";
@@ -55083,14 +55071,10 @@ nodes = (
 width = 548;
 },
 {
-anchors = (
+components = (
 {
-name = bottomright;
-position = "{475, 0}";
-},
-{
-name = top;
-position = "{370, 540}";
+name = "brevecomb-cy";
+transform = "{1, 0, 0, 1, 77, 0}";
 }
 );
 layerId = "85DC84FC-A9CD-42A1-AFE4-850615EB4B70";
