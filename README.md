@@ -1,5 +1,7 @@
 # Arsenal Font
 
+Web Specimen: [https://alexeiva.github.io/Arsenal](https://alexeiva.github.io/Arsenal/)
+
 #### Open-source font by [Andrij Shevchenko](1)
 
 In 2011 Andrij's typeface became a winner of [Ukrainian Type Design Competition 'Mystetsky Arsenal][2]' in which three main criteria were sought for: being zeitgeist, practical, and Ukrainian. Andrij's winning entry was crowned Arsenal and made publicly available.
@@ -20,11 +22,11 @@ Notable Traits:
  
 ### Project Timeline
 
-- 2011 Original Latin (except pan-African, and Asian) and Cyrillic (except Asian languages) were designed by [Andrij Shevchenko][1]. 
+- 2011 (v.1.000) Original Latin (except pan-African, and Asian) and Cyrillic (except Asian languages) were designed by [Andrij Shevchenko][1]. 
 
-- 2016 Further Cyrillic expansion to GF Cyrillic Pro was completed by [Cyreal][3].
+- 2016 (v.2.000) Further Cyrillic expansion to GF Cyrillic Pro was completed by [Cyreal][3].
 
-- 2016 Vietnamese language support was added by Nhung Nguyen <vns.wonderland@gmail.com>.
+- 2016 (v.2.000) Vietnamese language support was added by Nhung Nguyen <vns.wonderland@gmail.com>.
 
 
 ### Copyright
@@ -40,6 +42,7 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
  * [Arsenal on Behance][5]
  * [Arsenal on Ukrainian Type][2]
  * [Stairsfor][6]
+ * [Arsenal MDL Specimen][7]
 
 [1]: http://www.myfonts.com/newsletters/cc/201202.html
 [2]: http://www.ukrainian-type.com/about/
@@ -47,6 +50,7 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 [4]: http://scripts.sil.org/OFL
 [5]: https://www.behance.net/gallery/5540223/Arsenal-free-typeface
 [6]: http://stairsfor.com/
+[7]: https://alexeiva.github.io/Arsenal/
 
 
 ##### [UA]
