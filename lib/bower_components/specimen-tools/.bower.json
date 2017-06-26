@@ -1,0 +1,35 @@
+{
+  "name": "specimen-tools",
+  "authors": [
+    "Lasse Fister <commander@graphicore.de>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "APACHE2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Atem-Pen-Case": "graphicore/Atem-Pen-Case",
+    "opentype.js": "~0.6.5",
+    "requirejs": "~2.3.2",
+    "requirejs-text": "~2.0.15"
+  },
+  "homepage": "https://github.com/graphicore/specimenTools",
+  "_release": "84cc2c0561",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "84cc2c05618f698958ace05ea46c2d04c1986c03"
+  },
+  "_source": "https://github.com/graphicore/specimenTools.git",
+  "_target": "*",
+  "_originalSource": "graphicore/specimenTools"
+}

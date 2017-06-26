@@ -1,79 +1,68 @@
-# Arsenal Font
+s
+# Font Specimen Widgets for Material Design Lite
 
-#### Open-source font by [Andrij Shevchenko](1)
+These are HTML5 widgets to create interactive font specimen in a [Material Design Lite](https://getmdl.io/)
+environment.
+Technically though this is just a layer of configuration or a "skin", the
+widgets are defined in [specimentTools](https://github.com/graphicore/specimenTools).
 
-In 2011 Andrij's typeface became a winner of [Ukrainian Type Design Competition 'Mystetsky Arsenal][2]' in which three main criteria were sought for: being zeitgeist, practical, and Ukrainian. Andrij's winning entry was crowned Arsenal and made publicly available.
- 
-Arsenal is a semi-grotesque with traditional forms. It is primarily designed for body text and intended for various professional communication. Its special qualities of letter shapes and subtle contrast modulation articulate grace and expressivity. Arsenal's somewhat lyrical sentiment abides to the Ukrainian nature of the font.
+## Usage
 
-Design Features:
+Say you installed this with bower: `$ bower install mdl-font-specimen`
 
- * Narrow proportions for economical type-setting.
- * Moderate aperture
- * Observable contrast
- 
-Notable Traits:
+```html
+<!-- in your <HEAD> tag -->
 
- * Neutrality
- * Clarity
- * Swiftness
- 
-### Project Timeline
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="bower_components/material-design-lite/material.css">
+<link rel="stylesheet" href="bower_components/mdl-font-specimen/dist/mdl-font-specimen.css">
+<script defer src="bower_components/material-design-lite/material.js"></script>
 
-- 2011 Original Latin (except pan-African, and Asian) and Cyrillic (except Asian languages) were designed by [Andrij Shevchenko][1]. 
+<script>
+fontSpecimenConfig = {}
+fontSpecimenConfig.fontFiles = [
+    /* add here the paths to the font files */
+];
+</script>
+<script src="bower_components/mdl-font-specimen/dist/mdl-font-specimen.js"></script>
+```
 
-- 2016 Further Cyrillic expansion to GF Cyrillic Pro was completed by [Cyreal][3].
+See [index.html](index.html) for an example how the widgets are configured.
+Especially look at the css-classes that start with `mdlfs-` because these
+guide the initialization of the widgets.
 
-- 2016 Vietnamese language support was added by Nhung Nguyen <vns.wonderland@gmail.com>.
+## Build `dist/mdl-font-specimen.js`
 
+The `npm install` is only needed to run the build script. See also [Install for Development](#install_dev).
 
-### Copyright
+```
+~$ git clone git@github.com:graphicore/mdlFontSpecimen.git
+~$ cd mdlFontSpecimen
+~/mdlFontSpecimen$ npm install
+~/mdlFontSpecimen$ bower install
+~/mdlFontSpecimen$ ./bin/build lib/ dist/
+```
 
-Copyright 2012 Stairsfor and the Arsenal Project Authors 
+## <a name="install_dev">Install for Development</a>
 
-### License
+Especially if you are going to contribute to [specimentTools](https://github.com/graphicore/specimenTools)
+and want to use `mdlFontSpecimen` for testing (as I did). There's a great
+feature, `bower link`, linking a module directory with a symbolic link
+into a dependent project.
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: [http://scripts.sil.org/OFL][4]
+Also, you don't need to do the `npm install` for this.
 
-### Links
-
- * [Arsenal on Behance][5]
- * [Arsenal on Ukrainian Type][2]
- * [Stairsfor][6]
-
-[1]: http://www.myfonts.com/newsletters/cc/201202.html
-[2]: http://www.ukrainian-type.com/about/
-[3]: http://cyreal.org
-[4]: http://scripts.sil.org/OFL
-[5]: https://www.behance.net/gallery/5540223/Arsenal-free-typeface
-[6]: http://stairsfor.com/
-
-
-##### [UA]
-
-Переможець конкурсу на сучасний український шрифт в чотирьох традиційних відмінах (прямій, письмівці, грубішій та грубішій письмівці) для кирилиці (крім азійської) та латинки (крім азійсько-африканської) випущений під відкритою ліцензією.
-
-«АРСЕНАЛ» – набірний шрифт. Напівзакритий ґротеск традиційних форм. Ефективний для використання в діловій документації.
-
-Риси:
-
-* Вузькі пропорції,  що забезпечують економність на шпальті
-* Достатня відкритість форм
-* Помітний контраст
-
-Важливі якості:
-
-* Нейтральність
-* Прозорість
-* Швидкість
-
-Контраст та побудова літер надають йому більшої виразності та м’якості, а дещо ліричний характер – українського колориту.
-
-### Ліцензія
-
-Шрифт має вільну та відкриту ліцензію [SIL Open Font License][4].
-
-![Arsenal](sources/poster.png)
-![Arsenal](sources/fleuron.png)
-
+```
+~$ git clone git@github.com:graphicore/specimenTools.git
+~$ cd specimenTools
+~/specimenTools$ bower link
+~/specimenTools$ cd ..
+~/ git clone git@github.com:graphicore/mdlFontSpecimen.git
+~$ cd mdlFontSpecimen
+~/mdlFontSpecimen$ bower link specimen-tools
+~/mdlFontSpecimen$ bower install
+# now start a http-server to serve from ~/mdlFontSpecimen
+# e.g. python3 -m http.server 8000
+# visit: http://localhost:8000/html/development.html
+```
 
